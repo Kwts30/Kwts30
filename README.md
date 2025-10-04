@@ -55,9 +55,7 @@ Your profile README appears on your GitHub profile when you create a public repo
 
 ## Featured projects
 
-- [project-name]([https://github.com/Kwts30/project-name](https://github.com/Kwts30/PitStop-Parking-system) — short description
-- [another-project](https://github.com/Kwts30/another-project) — short description 
-- [cool-tool](https://github.com/Kwts30/cool-tool) — short description
+- [Pitstop Parking System]((https://github.com/Kwts30/PitStop-Parking-system))
 
 ---
 
