@@ -55,8 +55,9 @@ Your profile README appears on your GitHub profile when you create a public repo
 
 ## Featured projects
 
-REPO_LIST:START
-REPO_LIST:END
+<!-- REPO_LIST:START -->
+<!-- REPO_LIST:END -->
+
 ---
 
 ## Get in touch
