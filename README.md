@@ -16,24 +16,24 @@ Your profile README appears on your GitHub profile when you create a public repo
 
 ## About me
 
-- 🔭 Currently exploring: <!-- e.g., Full‑stack web apps, automation scripts, etc. -->
-- 🌱 Learning: <!-- e.g., TypeScript, React, Go, Rust, DevOps -->
-- 💬 Ask me about: <!-- topics you’re comfortable discussing -->
-- 📫 Reach me: <!-- your email or social links (e.g., LinkedIn) -->
-- ⚡ Fun fact: <!-- something interesting about you -->
-
-<!-- Tip: Replace the placeholders above with your details. Keep it short and friendly. -->
+- 🔭 Currently exploring: Mobile Development, Artificial Intelligence, and Web Development
+- 🌱 Learning: HTML, CSS, JS, PHP, MYSQL.
+- 💬 Ask me about: F1 🏎️ and Tech
 
 ---
 
 ## Tech stack
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=0A2142" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-
 ---
 
 ## GitHub stats
@@ -55,8 +55,8 @@ Your profile README appears on your GitHub profile when you create a public repo
 
 ## Featured projects
 
-- [Pitstop Parking System]((https://github.com/Kwts30/PitStop-Parking-system))
-
+REPO_LIST:START
+REPO_LIST:END
 ---
 
 ## Get in touch
