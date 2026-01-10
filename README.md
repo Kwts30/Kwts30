@@ -9,15 +9,15 @@ Your profile README appears on your GitHub profile when you create a public repo
 </p>
 
 <p align="center">
-  <em>Welcome to my corner of GitHub 👋</em>
+  <em>Welcome to my GitHub 👋</em>
 </p>
 
 ---
 
 ## About me
 
-- 🔭 Currently exploring: Mobile Development, Artificial Intelligence, and Web Development
-- 🌱 Learning: HTML, CSS, JS, PHP, MYSQL.
+- 🔭 Currently exploring: Mobile Development, Software Design, Artifitial Inteligence (Multimodal AI)
+- 🌱 Learning: JS, PHP, MYSQL, java, linux
 - 💬 Ask me about: F1 🏎️ and Tech
 
 ---
