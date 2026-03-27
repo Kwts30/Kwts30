@@ -1,65 +1,77 @@
-# Jaryl Kurt Benedicto
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:0d1117,100:1f2937&text=&animation=fadeIn" alt="header" />
+</p>
 
-<p>
-  <em>Full-stack developer | AI enthusiast | Problem solver</em>
+<h1 align="center">Jaryl Kurt Benedicto</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+Enthusiast;Doing+Minimal+Hobby+Projects;Passion+for+new+Technology" alt="typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kwts30">GitHub</a>
 </p>
 
 ---
 
 ## About
 
-Exploring mobile development, software design, and AI. Always curious about building scalable solutions and learning new technologies.
-
 ```javascript
-const about = {
-  exploring: ['Mobile Development', 'Software Design', 'Multimodal AI'],
+const jaryl = {
+  focus: ['Mobile Development', 'Software Design', 'Multimodal AI'],
   learning: ['JavaScript', 'PHP', 'MySQL', 'Java', 'Linux'],
   interests: ['Tech', 'F1 Racing'],
-  location: 'Open to Remote'
-}
+  status: 'Open to Remote'
+};
 ```
 
 ---
 
-## Languages & Tools
+## Stack
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=EA2D2E" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0d1117?style=flat&logo=csharp&logoColor=239120" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat&logo=c%2B%2B&logoColor=00599C" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-0d1117?style=flat&logo=php&logoColor=777BB4" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=E34F26" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=1572B6" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql&logoColor=4479A1" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032" />
+</p>
 
 ---
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwts30&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=e0e0e0)](https://github.com/Kwts30)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwts30&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=e0e0e0)](https://github.com/Kwts30)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kwts30&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kwts30&theme=github_dark" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kwts30&theme=github_dark" alt="Contribution graph" />
+</p>
 
 ---
 
-## Projects
+## Selected Projects
 
-| Project | Description |
-|---------|-------------|
-| [KWTS Discord Bot Control Panel](https://github.com/Kwts30/KWTS-Discord-bot-Control-Panel-) | Discord bot management system |
-| [MMCM SpotFinder](https://github.com/Kwts30/MMCM-SpotFinder) | Location discovery application |
-| [MindaGuard](https://github.com/Kwts30/MindaGuard) | Mental health support system |
-| [SwiftMart](https://github.com/Kwts30/SwiftMart) | E-commerce platform |
-| [CPE107L-1 Final Project](https://github.com/Kwts30/CPE107L-1-Final-Project-Foxtrot-Batch) | Foxtrot Batch capstone |
-| [DOJ Auto-Fillup System](https://github.com/Kwts30/DOJ_Auto-FIllup_System) | Automated form filling solution |
-| [HarvestLink WEB](https://github.com/Kwts30/HarvestLinkWEB) | Web-based harvest management |
+- [Discord Bot Control Panel](https://github.com/Kwts30/KWTS-Discord-bot-Control-Panel-) - Admin dashboard for Discord bot controls and configuration.
+- [MMCM SpotFinder](https://github.com/Kwts30/MMCM-SpotFinder) - An Project for the Parking prediction system on the MMCM Campus.
+- [MindaGuard](https://github.com/Kwts30/MindaGuard) - An Offline-first mobile disaster infographic application.
+- [SwiftMart](https://github.com/Kwts30/SwiftMart) - An POS System using C#.
+- [CPE107L Foxtrot Batch Final Project](https://github.com/Kwts30/CPE107L-1-Final-Project-Foxtrot-Batch) - An Project for the MMCM CEA Filling up systems.
+- [DOJ Auto Fill-Up System](https://github.com/Kwts30/DOJ_Auto-FIllup_System) - Automated form fill-up workflow system.
+- [HarvestLink Web](https://github.com/Kwts30/HarvestLinkWEB) - Web application agribusiness online shopping platform.
 
 ---
 
 ## Connect
 
-[🔗 GitHub](https://github.com/Kwts30)
+- [GitHub](https://github.com/Kwts30)
 
 <!--
 How to publish this:
